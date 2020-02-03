@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-02T20:55:22.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="9UMds1cQtNlYnoBF_dVH" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T19:58:28.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="HTQIx-Pj4qLfHgfz4WS3" version="12.6.4" type="github">
   <diagram id="4Yv4T2FzOvqm8OSmvZDy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,10 +91,10 @@
         <mxCell id="f-gjPmFj7WLw3WGe5HRc-59" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="f-gjPmFj7WLw3WGe5HRc-58" target="f-gjPmFj7WLw3WGe5HRc-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="f-gjPmFj7WLw3WGe5HRc-58" value="commute" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_maps_google-128.png;strokeColor=#FF8000;align=center;" vertex="1" parent="1">
+        <mxCell id="f-gjPmFj7WLw3WGe5HRc-58" value="Commute" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_maps_google-128.png;strokeColor=#FF8000;align=center;" vertex="1" parent="1">
           <mxGeometry x="990" y="512" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="f-gjPmFj7WLw3WGe5HRc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f-gjPmFj7WLw3WGe5HRc-29" target="f-gjPmFj7WLw3WGe5HRc-2">
+        <mxCell id="f-gjPmFj7WLw3WGe5HRc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="f-gjPmFj7WLw3WGe5HRc-29" target="f-gjPmFj7WLw3WGe5HRc-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="f-gjPmFj7WLw3WGe5HRc-62" value="dashboards" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=-90;" vertex="1" connectable="0" parent="f-gjPmFj7WLw3WGe5HRc-61">
@@ -139,7 +139,7 @@
         <mxCell id="f-gjPmFj7WLw3WGe5HRc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f-gjPmFj7WLw3WGe5HRc-63" source="f-gjPmFj7WLw3WGe5HRc-22" target="f-gjPmFj7WLw3WGe5HRc-28">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="f-gjPmFj7WLw3WGe5HRc-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;strokeColor=#FF8000;" vertex="1" parent="f-gjPmFj7WLw3WGe5HRc-63">
+        <mxCell id="f-gjPmFj7WLw3WGe5HRc-29" value="Kiosk" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;strokeColor=#FF8000;" vertex="1" parent="f-gjPmFj7WLw3WGe5HRc-63">
           <mxGeometry x="295" y="220" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="f-gjPmFj7WLw3WGe5HRc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="f-gjPmFj7WLw3WGe5HRc-63" source="f-gjPmFj7WLw3WGe5HRc-24" target="f-gjPmFj7WLw3WGe5HRc-29">
