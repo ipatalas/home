@@ -92,7 +92,10 @@ Like I said at the beginning I'm no expert in that field. All of that is totally
 
 # Disclaimer
 
-By no means is that repository and all related scripts meant to be (re)used by anyone in his/her situation out of the box. It's been all dedicated to solve my particular needs at the time. Your needs may be different. I don't say it's not gonna work. It should when applied correctly but I don't provide any installation guide since there are too many components. I do have backups for as much as I can to be able to recover in case something breaks. Still, every infrastructure is different.  
+By no means is that repository and all related scripts meant to be (re)used by anyone in his/her situation out of the box. It's been all dedicated to solve my particular needs at the time. Your needs may be different.
+
+I'm not saying it's not gonna work. It should when applied correctly but I don't provide any installation guide since there are too many components. I do have backups for as much as I can to be  able to recover in case something breaks. Still, every infrastructure is different.
+
 Of course you don't need to be recreate everything I have, some things will work partially. I can assist if you really want to use something I use but can't guarantee full support.
-That's basically meant to be an inspiration for others. I'm giving back what I got from many many other people/repositories. It was really inspiring and helped my build my system.  
+That's basically meant to be an inspiration for others. I'm giving back what I got from many many other people/repositories. It was really inspiring and helped me build my system.  
 As a matter of fact it's also meant to be a documentation for future myself in case I start forgetting things :)
